@@ -1,0 +1,59 @@
+body
+{
+    background-image: linear-gradient(to right top,blue,pink, pink, blue);
+}
+
+ img
+{
+    width: 100px;
+}
+
+.header_div2
+{
+    background-image: linear-gradient(to right top, black, blue, black, #006494);
+    color: white;
+}
+
+.header_div3
+{
+    background-image: linear-gradient(to right top, black, blue, black, #006494);
+    color: white;
+}
+
+.header_div4, .header_div5
+{
+    width: 300;
+    height: 300;
+    
+}
+
+.buton1_class
+{
+   color: white;
+    background-image: linear-gradient(to right top,blue,green, green, blue);
+}
+
+.buton2_class
+{
+   color: white;
+    background-image: linear-gradient(to right top,blue,green, green, blue);
+}
+
+.footer_div
+{
+  margin-bottom: 50px;
+}
+
+.footer_div h4
+{
+    box-shadow: rgb(255, 255, 255);
+    border-radius: 60;
+    background-color: yellowgreen;
+    border: 10px solid palevioletred;
+}
+
+.blub
+{
+    float: left;
+    width: 70px;
+}
